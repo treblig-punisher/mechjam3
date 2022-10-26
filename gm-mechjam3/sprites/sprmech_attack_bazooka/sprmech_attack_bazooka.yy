@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "sprMech_attack_bazooka",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": true,
+  "DynamicTexturePage": false,
   "width": 111,
   "height": 68,
   "textureGroupId": {
@@ -24,33 +28,17 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"4a4ca8e3-3df4-4aa4-93e0-59bdd6399930","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4a4ca8e3-3df4-4aa4-93e0-59bdd6399930","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"LayerId":{"name":"7abed462-04c4-4930-b768-032f7356e4fe","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"4a4ca8e3-3df4-4aa4-93e0-59bdd6399930","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"LayerId":{"name":"b3335e65-6303-405f-955f-4b2056db6143","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sprMech_attack_bazooka","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"resourceVersion":"1.0","name":"4a4ca8e3-3df4-4aa4-93e0-59bdd6399930","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"d07abc24-e1fd-4312-96f6-a8e58fef22df","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d07abc24-e1fd-4312-96f6-a8e58fef22df","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"LayerId":{"name":"7abed462-04c4-4930-b768-032f7356e4fe","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"d07abc24-e1fd-4312-96f6-a8e58fef22df","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"LayerId":{"name":"b3335e65-6303-405f-955f-4b2056db6143","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sprMech_attack_bazooka","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"resourceVersion":"1.0","name":"d07abc24-e1fd-4312-96f6-a8e58fef22df","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"78739bb3-f1c1-403e-acf0-4d5357b6c6a3","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"78739bb3-f1c1-403e-acf0-4d5357b6c6a3","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"LayerId":{"name":"7abed462-04c4-4930-b768-032f7356e4fe","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"78739bb3-f1c1-403e-acf0-4d5357b6c6a3","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"LayerId":{"name":"b3335e65-6303-405f-955f-4b2056db6143","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sprMech_attack_bazooka","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"resourceVersion":"1.0","name":"78739bb3-f1c1-403e-acf0-4d5357b6c6a3","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a75d7485-b8fc-4fd8-8b83-71d9eb67003b","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a75d7485-b8fc-4fd8-8b83-71d9eb67003b","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"LayerId":{"name":"7abed462-04c4-4930-b768-032f7356e4fe","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"a75d7485-b8fc-4fd8-8b83-71d9eb67003b","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"LayerId":{"name":"b3335e65-6303-405f-955f-4b2056db6143","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sprMech_attack_bazooka","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"resourceVersion":"1.0","name":"a75d7485-b8fc-4fd8-8b83-71d9eb67003b","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"40e9a469-b70b-4047-880c-704556edaebf","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"40e9a469-b70b-4047-880c-704556edaebf","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"LayerId":{"name":"7abed462-04c4-4930-b768-032f7356e4fe","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"40e9a469-b70b-4047-880c-704556edaebf","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"LayerId":{"name":"b3335e65-6303-405f-955f-4b2056db6143","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sprMech_attack_bazooka","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"resourceVersion":"1.0","name":"40e9a469-b70b-4047-880c-704556edaebf","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"e27d6571-b945-4790-a926-52c2d5462918","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e27d6571-b945-4790-a926-52c2d5462918","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"LayerId":{"name":"7abed462-04c4-4930-b768-032f7356e4fe","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"e27d6571-b945-4790-a926-52c2d5462918","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"LayerId":{"name":"b3335e65-6303-405f-955f-4b2056db6143","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sprMech_attack_bazooka","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"resourceVersion":"1.0","name":"e27d6571-b945-4790-a926-52c2d5462918","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4a4ca8e3-3df4-4aa4-93e0-59bdd6399930",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d07abc24-e1fd-4312-96f6-a8e58fef22df",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"78739bb3-f1c1-403e-acf0-4d5357b6c6a3",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a75d7485-b8fc-4fd8-8b83-71d9eb67003b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"40e9a469-b70b-4047-880c-704556edaebf",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e27d6571-b945-4790-a926-52c2d5462918",},
   ],
   "sequence": {
-    "spriteId": {"name":"sprMech_attack_bazooka","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "sprMech_attack_bazooka",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 10.0,
@@ -68,14 +56,14 @@
       ],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"3e424d24-1fcf-486c-9752-6d24a40326fa","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4a4ca8e3-3df4-4aa4-93e0-59bdd6399930","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"e7d5fc53-2699-40af-9550-430294e5ab88","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d07abc24-e1fd-4312-96f6-a8e58fef22df","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"ab53d261-9ad5-4650-bb5d-57458d71d715","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"78739bb3-f1c1-403e-acf0-4d5357b6c6a3","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"53d15775-2e75-4803-88fe-e4775c0e72e5","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a75d7485-b8fc-4fd8-8b83-71d9eb67003b","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"7c7e5c5a-6251-45ed-b14e-62e0b17303f5","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"40e9a469-b70b-4047-880c-704556edaebf","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"c1e4ad0e-746b-4d42-80ae-eb9aec845f96","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e27d6571-b945-4790-a926-52c2d5462918","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -91,15 +79,10 @@
     "yorigin": 34,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"sprMech_attack_bazooka","path":"sprites/sprMech_attack_bazooka/sprMech_attack_bazooka.yy",},
-    "resourceVersion": "1.4",
-    "name": "sprMech_attack_bazooka",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":false,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 1","resourceVersion":"1.0","name":"7abed462-04c4-4930-b768-032f7356e4fe","tags":[],"resourceType":"GMImageLayer",},
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b3335e65-6303-405f-955f-4b2056db6143","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"7abed462-04c4-4930-b768-032f7356e4fe","visible":false,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 1",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"b3335e65-6303-405f-955f-4b2056db6143","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": {
     "left": 0,
@@ -130,8 +113,4 @@
     "name": "Mechs",
     "path": "folders/Sprites/Mechs.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "sprMech_attack_bazooka",
-  "tags": [],
-  "resourceType": "GMSprite",
 }
