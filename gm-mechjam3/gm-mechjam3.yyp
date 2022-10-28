@@ -308,6 +308,7 @@
     {"id":{"name":"objCamera","path":"objects/objCamera/objCamera.yy",},"order":1,},
     {"id":{"name":"__input_player_tick_sources","path":"scripts/__input_player_tick_sources/__input_player_tick_sources.yy",},"order":25,},
     {"id":{"name":"input_accessibility_verb_toggle_get","path":"scripts/input_accessibility_verb_toggle_get/input_accessibility_verb_toggle_get.yy",},"order":6,},
+    {"id":{"name":"spr_9slice","path":"sprites/spr_9slice/spr_9slice.yy",},"order":28,},
     {"id":{"name":"objDialogDrawer","path":"objects/objDialogDrawer/objDialogDrawer.yy",},"order":8,},
     {"id":{"name":"input_binding_threshold_get","path":"scripts/input_binding_threshold_get/input_binding_threshold_get.yy",},"order":11,},
     {"id":{"name":"input_cursor_speed_set","path":"scripts/input_cursor_speed_set/input_cursor_speed_set.yy",},"order":11,},

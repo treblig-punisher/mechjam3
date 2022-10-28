@@ -12,6 +12,7 @@ room_set_view_enabled(room, true);
 view_enabled = true;
 view_visible[0] = true;
 
+
 function SetupGameWindow(_window_scale) {
 	view_width = screenWidth;
 	view_height = screenHeight;
@@ -19,8 +20,8 @@ function SetupGameWindow(_window_scale) {
 	window_set_size(view_width * _window_scale, view_height * _window_scale);
 	alarm[0] = 1;
 	//resize gui in the alarm after window has changed
-	surface_resize(application_surface, view_width * _window_scale, view_height * _window_scale);	
+	//surface_resize(application_surface, view_width * _window_scale, view_height * _window_scale);	
 }
 
-
 SetupGameWindow(window_scale);
+//display_set_gui_size(screenWidth, screenHeight)

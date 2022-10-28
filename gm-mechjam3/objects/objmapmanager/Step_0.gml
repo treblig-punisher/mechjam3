@@ -3,6 +3,7 @@
 
 //Debug functionality
 
+setNewResForFullScreen();
 
 if ( room == rmMap) {
 	if(input_check_released("mapMenuConfirm"))

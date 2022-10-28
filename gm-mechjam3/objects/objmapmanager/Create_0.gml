@@ -17,6 +17,31 @@ playerLastY = 0;
 
 playerPawn = noone;
 tileReward = "";
+setNewResForFullScreen = function()
+{
+	//static isFullscreen = true;
+	if(keyboard_check(vk_alt) && keyboard_check_pressed(vk_enter)) alarm[0] = 10;
+}
+display_set_gui_size(1920, 1080);
+application_surface_draw_enable(false)
+
+
+guiSize = {
+	width: display_get_gui_width(),
+	height: display_get_gui_height(),
+}
+windowSize =
+{
+	width:  window_get_width(),
+	height: window_get_height(),
+}
+displaySize =
+{
+	width: display_get_width(),
+	height: display_get_height(),
+}
+//surface_resize(application_surface, displayW, displayH);
+alarm[0] = 10;
 
 function GenerateMap()
 {
@@ -233,3 +258,5 @@ function ClearMissionStatus() {
 ClearMissionStatus();
 if (array_length(objManager.gameData.mapData) == 0) 
 	GenerateMap();
+	
+//display_set_gui_size(room_width, room_height)
